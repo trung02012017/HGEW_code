@@ -3,11 +3,8 @@
 2. script: includes file runs (main files)
 3. models: includes all algorithms 
     * single_solution: 
-    * multiple_solution: 4 folders
-        * human_based
-        * physics_based
+    * multiple_solution:
         * swarm_based
-        * evolutionary_based
 4. How to run?
     * run files in script folder, your environment need 2 package: copy and numpy
     * also change the parameters of models in scripts's fil

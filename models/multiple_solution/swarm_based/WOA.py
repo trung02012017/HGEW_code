@@ -1,3 +1,9 @@
+# This file implements the code of WOA algorthm
+
+__author__ = "Trung Tran"
+__email__ = "trungtq1997@gmail.com"
+
+
 import numpy as np
 import math
 from copy import deepcopy

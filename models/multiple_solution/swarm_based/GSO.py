@@ -1,3 +1,9 @@
+## This file implement the code of GSO and its variants 
+
+__author__ = "Trung Tran"
+__email__ = "trungtq1997@gmail.com"
+
+
 import numpy as np
 from copy import deepcopy
 import math

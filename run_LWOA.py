@@ -1,3 +1,11 @@
+# This file run the optimization process of GSO on specified functions
+
+
+__author__ = "Trung Tran"
+__email__ = "trungtq1997@gmail.com"
+
+
+
 from models.multiple_solution.swarm_based.WOA import LWOA
 from utils.FunctionUtil import *
 import json

@@ -1,3 +1,6 @@
+__author__ = "Thieu Nguyen"
+
+
 import numpy as np
 from copy import deepcopy
 from models.multiple_solution.root_multiple import RootAlgo
